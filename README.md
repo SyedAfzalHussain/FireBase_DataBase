@@ -1,1 +1,3 @@
 # FireBase_DataBase
+In this code we can use firebase for storing data...
+This is much like as mongodb.
